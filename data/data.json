@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Nintendo Switch System with Neon Blue and Neon Red Joy-Con",
+            "price": "4895.00",
+            "image": "https://images.app.goo.gl/kJbHnTy3hNKqgqmu8",
+            "id": 1
+        },
+        {
+            "name": "Nintendo Switch Lite - Blue",
+            "price": "3099.00",
+            "image": "https://images.app.goo.gl/5nYrnA9WsPDiDTaS6",
+            "id": 2
+        },
+        {
+            "name": "Nintendo Switch White OLED de 64GB",
+            "price": "6999.00",
+            "image": "https://images.app.goo.gl/PX39NA17FXGF5pxq7",
+            "id": 3
+        },
+        {
+            "name": "Consola Nintendo 3DS Azul Aqua Nintendo 3DS Azul",
+            "price": "2455.00",
+            "image": "https://images.app.goo.gl/ng8VCgApTkoZTaWr9",
+            "id": 4
+        },
+        {
+            "name": "Nintendo Switch Lite - Turquoise",
+            "price": "2970.00",
+            "image": "https://images.app.goo.gl/RkxojFe3xyPdCTv9A",
+            "id": 5
+        },
+        {
+            "name": "Consola Nintendo Switch OLED Edición Mario Red 64 GB",
+            "price": "4598.00",
+            "image": "https://images.app.goo.gl/jb8mjjfrWqPep2Yv6",
+            "id": 6
+        },
+        {
+            "name": "Pro Controller for Switch",
+            "price": "1399.00",
+            "image": "https://images.app.goo.gl/1HcUipv3eNTewP516",
+            "id": 7
+        }
+    ]
+}
